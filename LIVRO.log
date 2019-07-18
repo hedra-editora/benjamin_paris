@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.4.20)  16 JUL 2019 16:25
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  18 JUL 2019 09:59
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -6,11 +6,11 @@ LaTeX2e <2017-04-15>
 Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
 Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended co
-llection.(using write cache: /home/felipe/.texlive/texmf-var/luatex-cache/generi
-c)(using read cache: /var/lib/texmf/luatex-cache/generic /home/felipe/.texlive/t
-exmf-var/luatex-cache/generic)
-luaotfload | conf : Root cache directory is /home/felipe/.texlive/texmf-var/luat
-ex-cache/generic/names.
+llection.(using write cache: /home/editorial/.texlive/texmf-var/luatex-cache/gen
+eric)(using read cache: /var/lib/texmf/luatex-cache/generic /home/editorial/.tex
+live/texmf-var/luatex-cache/generic)
+luaotfload | conf : Root cache directory is /home/editorial/.texlive/texmf-var/l
+uatex-cache/generic/names.
 luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse
 -resolved path “/usr/share/texmf-dist/tex/luatex/luaotfload/fontloader-2017-02
 -11.lua”.
@@ -22,8 +22,8 @@ Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
 Inserting `luaotfload.define_font' at position 1 in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 4
-luaotfload | conf : Root cache directory is /home/felipe/.texlive/texmf-var/luat
-ex-cache/generic/names.
+luaotfload | conf : Root cache directory is /home/editorial/.texlive/texmf-var/l
+uatex-cache/generic/names.
 Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
 font'.
 Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
@@ -34,8 +34,8 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.385 seconds
-Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
+luaotfload | main : initialization completed in 0.213 seconds
+Babel <3.15> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
 ent class
@@ -68,9 +68,9 @@ Package ifluatex Info: LuaTeX detected.
 
 (/usr/share/texmf-dist/tex/latex/memoir/mem12.clo
 File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
-luaotfload | db : Font names database loaded from /home/felipe/.texlive/texmf-va
-r/luatex-cache/generic/names/luaotfload-names.luc(load luc: /home/felipe/.texliv
-e/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc))
+luaotfload | db : Font names database loaded from /home/editorial/.texlive/texmf
+-var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /home/editorial/.
+texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc))
 \binding=\skip48
 \spinemargin=\skip49
 \foremargin=\skip50
@@ -275,8 +275,8 @@ LaTeX Info: Redefining \emph on input line 7559.
 \m@m@k=\count111
 \m@m@h=\dimen142
 \m@mipn@skip=\skip165
-(load luc: /home/felipe/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroma
-n10-regular.luc)
+(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmr
+oman10-regular.luc)
 \sidefootins=\insert195
 \sidefootadjust=\skip166
 \sidefootheight=\skip167
@@ -371,9 +371,9 @@ Package verse [2008/07/23] emulated by memoir.
  (/usr/share/texmf-dist/tex/latex/memoir/mempatch.sty
 Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
 ))
-(/home/felipe/texmf/tex/hedraoptions.sty
+(/home/editorial/texmf/tex/hedraoptions.sty
 
-Class memoir Warning: \marginparsep is zero or negative on input line 165.
+Class memoir Warning: \marginparsep is zero or negative on input line 178.
 
 
 ******************************************************
@@ -395,14 +395,14 @@ Sidefoothsep and sidefootwidth: 7pt and 102pt
 Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 ******************************************************
 
-) (/home/felipe/texmf/tex/hedrastyles.sty
+) (/home/editorial/texmf/tex/hedrastyles.sty
 (/usr/share/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
 LaTeX Info: Redefining \MakeTextUppercase on input line 47.
 LaTeX Info: Redefining \MakeTextLowercase on input line 50.
 )
 (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count137
 )) (./tipografia.sty
 (/usr/share/texmf-dist/tex/latex/lettrine/lettrine.sty
@@ -455,7 +455,7 @@ Package: ulem 2012/05/18
 Excluding comment 'comment') (/usr/share/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count143
-) (/home/felipe/texmf/tex/adforn.sty
+) (/home/editorial/texmf/tex/adforn.sty
 Package: adforn 2010/07/25 v1.0 adforn CFR
 
 (/usr/share/texmf-dist/tex/latex/psnfss/pifont.sty
@@ -474,7 +474,7 @@ LaTeX Font Info:    Try loading font information for U+OrnementsADF on input lin
 e 4.
 
 (/usr/share/texmf-dist/tex/latex/adforn/uornementsadf.fd))
-(/home/felipe/texmf/tex/hifensextras.sty)
+(/home/editorial/texmf/tex/hifensextras.sty)
 (/usr/share/texmf-dist/tex/latex/ncctools/manyfoot.sty
 Package: manyfoot 2005/09/11 v1.10 Many Footnote Levels Package (NCC)
 
@@ -524,7 +524,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 ))
-(/home/felipe/texmf/tex/extras/footnote.sty
+(/home/editorial/texmf/tex/extras/footnote.sty
 Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \fn@notes=\box34
 \fn@width=\dimen170
@@ -532,14 +532,14 @@ Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \epigraphminimallength=\skip190
 )
 (/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2018/02/14 3.18 The Babel package
+Package: babel 2017/11/03 3.15 The Babel package
 
 (/usr/share/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2018/02/14 3.18 Babel switching mechanism
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
 )
 (/usr/share/texmf-dist/tex/generic/babel/luababel.def
 \l@dumylang=\language2
-Package babel Info: Non-standard hyphenation setup on input line 113.
+Package babel Info: Non-standard hyphenation setup on input line 112.
 \l@nohyphenation=\language3
 \l@german-x-2017-03-31=\language4
 \l@ngerman-x-2017-03-31=\language5
@@ -627,7 +627,11 @@ Package babel Info: Non-standard hyphenation setup on input line 113.
 Language: greek 2016/09/07 v1.9g Greek support for the babel system
 
 (/usr/share/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2018/02/14 3.18 Babel common definitions
+File: babel.def 2017/11/03 3.15 Babel common definitions
+
+(/usr/share/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
+)
 \babel@savecnt=\count148
 \U@D=\dimen171
 
@@ -676,27 +680,27 @@ UTF-8 German hyphenation patterns (reformed orthography)
 (/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-de-1996.tex
 German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2017-03-31
  (WL))))) (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf
-Language: french 2018/02/04 v3.4b French support from the babel system
-\l@acadian = a dialect from \language\l@french 
+Language: french 2017/10/19 v3.3d French support from the babel system
 \FB@nonchar=\count155
+\FBcolonsp=\toks25
+\FBthinsp=\toks26
 \FB@spacing=\attribute5
 \FB@addDPspace=\attribute6
 \FB@addGUILspace=\attribute7
 \FB@ucsNBSP=\attribute8
-\FB@dialect=\attribute9
 Package french.ldf Info: No need for active punctuation characters
 (french.ldf)             with this version of LuaTeX!
-(french.ldf)             reported on input line 246.
+(french.ldf)             reported on input line 189.
+\FBguillsp=\toks27
 \FBguill@level=\count156
-\FB@everypar=\toks25
+\FB@everypar=\toks28
 \FB@Mht=\dimen172
-LaTeX Info: Redefining \degres on input line 753.
+LaTeX Info: Redefining \degres on input line 681.
 \mc@charclass=\count157
 \mc@charfam=\count158
 \mc@charslot=\count159
 \std@mcc=\count160
 \dec@mcc=\count161
-Inserting `frenchb.french_punctuation' at position 1 in `kerning'.
 \c@FBcaption@count=\count162
 \listindentFB=\skip191
 \descindentFB=\skip192
@@ -725,33 +729,33 @@ UTF-8 Portuguese hyphenation patterns
 (/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-pt.tex))))
 (/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty)
 (/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
-\MT@toks=\toks26
+Package: microtype 2017/07/07 v2.7 Micro-typographical refinements (RS)
+\MT@toks=\toks29
 \MT@count=\count163
-LaTeX Info: Redefining \textls on input line 793.
+LaTeX Info: Redefining \textls on input line 789.
 \MT@outer@kern=\dimen174
-LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
+LaTeX Info: Redefining \textmicrotypecontext on input line 1334.
 \MT@listname@count=\count164
 
 (/usr/share/texmf-dist/tex/latex/microtype/microtype-luatex.def
-File: microtype-luatex.def 2018/01/14 v2.7a Definitions specific to luatex (RS)
-Lua module: microtype 2018/01/14 2.7a microtype module.
-LaTeX Info: Redefining \lsstyle on input line 679.
-LaTeX Info: Redefining \lslig on input line 679.
+File: microtype-luatex.def 2017/07/07 v2.7 Definitions specific to luatex (RS)
+Lua module: microtype 2017/07/07 2.7 microtype module.
+LaTeX Info: Redefining \lsstyle on input line 681.
+LaTeX Info: Redefining \lslig on input line 681.
 \MT@outer@space=\skip257
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
 (/usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
+File: microtype.cfg 2017/07/07 v2.7 microtype main configuration file (RS)
 ))
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
 (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2018/02/21 L3 programming layer (loader) 
+Package: expl3 2017/11/14 L3 programming layer (loader) 
 
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2018/02/21 L3 programming layer (code)
+Package: expl3 2017/11/14 L3 programming layer (code)
 \ucharcat@table=\catcodetable5
 \c_max_int=\count165
 \l_tmpa_int=\count166
@@ -851,7 +855,7 @@ Package: expl3 2018/02/21 L3 programming layer (code)
 \l__regex_min_submatch_int=\count313
 \l__regex_submatch_int=\count314
 \l__regex_zeroth_submatch_int=\count315
-\g__regex_trace_regex_int=\count316
+\g__debug_trace_regex_int=\count316
 \c_empty_box=\box35
 \l_tmpa_box=\box36
 \l_tmpb_box=\box37
@@ -898,7 +902,7 @@ File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count317
 \l__driver_tmp_box=\box50
 ))
-Package: xparse 2018/02/21 L3 Experimental document command parser
+Package: xparse 2017/11/14 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count318
 \g__xparse_grabber_int=\count319
 \l__xparse_m_args_int=\count320
@@ -1115,9 +1119,9 @@ LaTeX Info: Redefining \scshape on input line 3635.
 LaTeX Info: Redefining \upshape on input line 3640.
 LaTeX Info: Redefining \em on input line 3670.
 LaTeX Info: Redefining \emph on input line 3695.
-(load luc: /home/felipe/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroma
-n12-bold.luc)(load luc: /home/felipe/.texlive/texmf-var/luatex-cache/generic/fon
-ts/otl/lmroman12-italic.luc)
+(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmr
+oman12-bold.luc)(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/gener
+ic/fonts/otl/lmroman12-italic.luc)
 LaTeX Info: Redefining \- on input line 3749.
 .................................................
 . LaTeX info: "xparse/redefine-command"
@@ -1145,7 +1149,7 @@ Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
 (/usr/share/texmf-dist/tex/latex/metalogo/metalogo.sty
 Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
 
-(/home/felipe/texmf/tex/graphicx.sty
+(/home/editorial/texmf/tex/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
@@ -1160,20 +1164,20 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: luatex.def on input line 99.
 
 (/usr/share/texmf-dist/tex/latex/graphics-def/luatex.def
-File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+File: luatex.def 2017/06/24 v1.0f Graphics/color driver for luatex
 ))
 \Gin@req@height=\dimen270
 \Gin@req@width=\dimen271
 )
-\xl@everylogo=\toks27
-\xl@@everylogo=\toks28
+\xl@everylogo=\toks30
+\xl@@everylogo=\toks31
 LaTeX Info: Redefining \TeX on input line 193.
 LaTeX Info: Redefining \LaTeX on input line 202.
 LaTeX Info: Redefining \LaTeXe on input line 219.
 )
 (/usr/share/texmf-dist/tex/lualatex/luacode/luacode.sty
 Package: luacode 2012/01/23 v1.2a lua-in-tex helpers (mpg)
-\luacode@lines=\toks29
+\luacode@lines=\toks32
 \luacode@table@soft=\catcodetable8
 )
 (/usr/share/texmf-dist/tex/latex/base/fixltx2e.sty
@@ -1187,14 +1191,14 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 ))
-luaotfload | cache : Lookup cache loaded from /home/felipe/.texlive/texmf-var/lu
-atex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: /home/felipe/.te
-xlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc)
+luaotfload | cache : Lookup cache loaded from /home/editorial/.texlive/texmf-var
+/luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: /home/editori
+al/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc)
 \g__fontspec_family_LinuxLibertineO_int=\count332
-(load luc: /home/felipe/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlib
-ertine-rbi.luc)(load luc: /home/felipe/.texlive/texmf-var/luatex-cache/generic/f
-onts/otl/linlibertine-rb.luc)(load luc: /home/felipe/.texlive/texmf-var/luatex-c
-ache/generic/fonts/otl/linlibertine-ri.luc)
+(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lin
+libertine-rbi.luc)(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/gen
+eric/fonts/otl/linlibertine-rb.luc)(load luc: /home/editorial/.texlive/texmf-var
+/luatex-cache/generic/fonts/otl/linlibertine-ri.luc)
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1222,7 +1226,7 @@ ache/generic/fonts/otl/linlibertine-ri.luc)
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 6.
 
-(/home/felipe/texmf/tex/toc.sty
+(/home/editorial/texmf/tex/toc.sty
 (/usr/share/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2011/12/15 v1.6 TOC entries
 \ttl@leftsep=\dimen272
@@ -1230,7 +1234,7 @@ Package: titletoc 2011/12/15 v1.6 TOC entries
 (/usr/share/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 ))
-(/home/felipe/texmf/tex/hedraextra.sty
+(/home/editorial/texmf/tex/hedraextra.sty
 (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
@@ -1335,13 +1339,14 @@ Package: shorttoc 2002/08/20 v1.3 Short table of contents (JPFD)
 )
 \c@@sectionNumCenter=\count333
 )
-(/home/felipe/texmf/tex/penalidades.sty) (/home/felipe/texmf/tex/graficos.sty
+(/home/editorial/texmf/tex/penalidades.sty)
+(/home/editorial/texmf/tex/graficos.sty
 (/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen273
 \WF@size=\dimen274
 \c@WF@wrappedlines=\count334
 \WF@box=\box51
-\WF@everypar=\toks30
+\WF@everypar=\toks33
 Package: wrapfig 2003/01/31  v 3.6
 )
 
@@ -1379,7 +1384,7 @@ Package: textpos 2016/06/07 1.8, absolute positioning of text on the page
 \TP@absmargin=\dimen285
 Grid set 16 x 16 = 23.65135pt x 37.34424pt
 \TPboxrulesize=\dimen286
-\TP@tbargs=\toks31
+\TP@tbargs=\toks34
 \TP@prevdepth=\dimen287
 ) (/usr/share/texmf-dist/tex/latex/sttools/floatpag.sty
 Package: floatpag 2012/05/29 v1.1 Different pagestyles on float pages
@@ -1411,7 +1416,7 @@ Package morefloats Info: Maximum number of possible floats asked for: 36
 \imageheight=\skip264
 \imagewidth=\skip265
 
-(/home/felipe/texmf/tex/hedralogo.sty
+(/home/editorial/texmf/tex/hedralogo.sty
 Package: hedralogo 27/12/08 v2.0 Editora Hedra (Mantenedor: JS)
 
 (/usr/share/texmf-dist/tex/latex/graphics/color.sty
@@ -1421,8 +1426,9 @@ Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: luatex.def on input line 147.
-)) (./fichatecnica.sty) (./aparatos.sty (/home/felipe/texmf/tex/listingx.sty) (./frontlayout.sty))
-(./fronthedra.tex) (/home/felipe/texmf/tex/tabelas.sty
+)) (./fichatecnica.sty) (./aparatos.sty (/home/editorial/texmf/tex/listingx.sty
+) (./frontlayout.sty))
+(./fronthedra.tex) (/home/editorial/texmf/tex/tabelas.sty
 (/usr/share/texmf-dist/tex/latex/xtab/xtab.sty
 Package: xtab 2011/07/31 v2.3f Extended supertabular package
 \c@tracingst=\count336
@@ -1456,7 +1462,7 @@ Package: xtab 2011/07/31 v2.3f Extended supertabular package
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip269
 \enit@outerparindent=\dimen303
-\enit@toks=\toks32
+\enit@toks=\toks35
 \enit@inbox=\box54
 \enitdp@description=\count343
 )
@@ -1487,8 +1493,8 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks33
-\XKV@tempa@toks=\toks34
+\XKV@toks=\toks36
+\XKV@tempa@toks=\toks37
 )
 \XKV@depth=\count344
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -1499,7 +1505,7 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \rotFPtop=\skip270
 \rotFPbot=\skip271
 \rot@float@box=\box55
-\rot@mess@toks=\toks35
+\rot@mess@toks=\toks38
 )
 (/usr/share/texmf-dist/tex/latex/oberdiek/transparent.sty
 Package: transparent 2016/05/16 v1.1 Transparency via pdfTeX's color stack (HO)
@@ -1528,8 +1534,8 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 \CT@t=\box56
 \@CTcurftwidth=\dimen322
 ))
-(/home/felipe/texmf/tex/versos.sty) (./gitrevisioninfo.sty)
-(/home/felipe/texmf/tex/commands.sty)
+(/home/editorial/texmf/tex/versos.sty) (./gitrevisioninfo.sty)
+(/home/editorial/texmf/tex/commands.sty)
 \mystoreparindent=\skip272
  (./LIVRO.aux (./INPUTS.aux)
 (./PUBLICIDADE.aux))
@@ -1564,6 +1570,7 @@ File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    ... okay on input line 62.
 LaTeX Info: Redefining \dots on input line 62.
 LaTeX Info: Redefining \up on input line 62.
+Inserting `frenchb.french_punctuation' at position 1 in `kerning'.
 LaTeX Info: Redefining \microtypecontext on input line 62.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -1651,12 +1658,12 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 \scratchbox=\box57
 \nofMPsegments=\count347
 \nofMParguments=\count348
-\everyMPshowfont=\toks36
+\everyMPshowfont=\toks39
 \MPscratchCnt=\count349
 \MPscratchDim=\dimen324
 \MPnumerator=\count350
 \makeMPintoPDFobject=\count351
-\everyMPtoPDFconversion=\toks37
+\everyMPtoPDFconversion=\toks40
 ) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1667,18 +1674,18 @@ Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
 (/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO)
 
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks38
+\pdftexcmds@toks=\toks41
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 43
 8.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG
-,.JBIG2,.JB2,.eps]
+,.JBIG2,.JB2 ,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
 (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
@@ -1692,14 +1699,14 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
 Package caption Info: End \AtBeginDocument code.
-(load luc: /home/felipe/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmmono
-12-regular.luc)
+(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmm
+ono12-regular.luc)
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-(load luc: /home/felipe/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmmono
-8-regular.luc) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmm
+ono8-regular.luc) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1713,7 +1720,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
 )
-(/home/felipe/texmf/tex/frontconselho.tex) [2
+(/home/editorial/texmf/tex/frontconselho.tex) [2
 
 ]
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 62.
@@ -1723,8 +1730,8 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (/usr/share/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
-) [3] (./PRETAS.tex(load luc: /home/felipe/.texlive/texmf-var/luatex-cache/gener
-ic/fonts/otl/lmmono10-regular.luc) [4
+) [3] (./PRETAS.tex(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/ge
+neric/fonts/otl/lmmono10-regular.luc) [4
 
 ]) [5] [6] (./LIVRO.toc [7]) [8]
 \openout2 = INPUTS.aux
@@ -1746,11 +1753,11 @@ Overfull \hbox (15.96109pt too wide) in paragraph at lines 8--19
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 109.
 
-Overfull \vbox (8.85881pt too high) has occurred while \output is active []
+Overfull \vbox (6.35881pt too high) has occurred while \output is active []
 
 
 [11]
-Overfull \vbox (2.15605pt too high) has occurred while \output is active []
+Overfull \vbox (16.65605pt too high) has occurred while \output is active []
 
 
 [12]
@@ -1758,11 +1765,11 @@ Overfull \vbox (16.65602pt too high) has occurred while \output is active []
 
 
 [13] [14]
-Overfull \vbox (17.15599pt too high) has occurred while \output is active []
+Overfull \vbox (19.60799pt too high) has occurred while \output is active []
 
 
 [15]
-Overfull \vbox (7.19998pt too high) has occurred while \output is active []
+Overfull \vbox (7.60799pt too high) has occurred while \output is active []
 
 
 [16]
@@ -1770,7 +1777,7 @@ Overfull \vbox (9.60802pt too high) has occurred while \output is active []
 
 
 [17]
-Overfull \vbox (9.60805pt too high) has occurred while \output is active []
+Overfull \vbox (7.10805pt too high) has occurred while \output is active []
 
 
 [18]
@@ -2364,11 +2371,11 @@ Overfull \vbox (12.60799pt too high) has occurred while \output is active []
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[235]))
+[235])
 Overfull \vbox (19.10802pt too high) has occurred while \output is active []
 
 
-[236]
+[236])
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -2383,7 +2390,7 @@ either increase the head height or redesign the header
 AED: lastpage setting LastPage
 
 \openout2 = PUBLICIDADE.aux
-(/home/felipe/texmf/tex/PUBLICIDADE.tex
+(/home/editorial/texmf/tex/PUBLICIDADE.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
@@ -2407,16 +2414,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 24958 strings out of 494480
- 2274207,794899 words of node,token memory allocated
- 2051483 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 298 glue, 1 penalty, 324540 glyph, 43302 attribute,
- 195 glue_spec, 7217 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:4,2:3154,3:235,4:125,5:731,6:1512,7:4506,8:92,9:375,10:26,11:1
-132
- 27782 multiletter control sequences out of 65536+600000
- 121 fonts using 22658127 bytes
- 50i,14n,69p,1369b,531s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 24762 strings out of 494483
+ 6940433,794899 words of node,token memory allocated
+ 5930923 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 298 glue, 1 penalty, 973491 glyph, 36155 attribute,
+ 195 glue_spec, 7231 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:4,2:2698,3:235,4:125,5:732,6:266,7:4506,8:92,9:375,10:26,11:11
+32
+ 27574 multiletter control sequences out of 65536+600000
+ 123 fonts using 23461687 bytes
+ 50i,14n,69p,1369b,537s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf
 -dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/opentype/public/l
 ibertine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libert
@@ -2425,7 +2432,7 @@ inLibertine_R.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmmono8-regula
 r.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/
 share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr/share/t
 exmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (242 pages, 734307 bytes).
+Output written on LIVRO.pdf (242 pages, 736062 bytes).
 
 PDF statistics: 806 PDF objects out of 1000 (max. 8388607)
  541 compressed objects within 6 object streams
