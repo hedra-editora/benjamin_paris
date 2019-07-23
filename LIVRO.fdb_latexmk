@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1563879494 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1563879503
+["lualatex"] 1563879494 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1563880974
   "/etc/texmf/tex/generic/config/language.dat" 1510784374 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc" 1556209800 330551 d12977d7bdbdf3a8c84dfb9092c3ccea ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc" 1556209801 287951 05a753757cb80cdd1665c6086d8a0543 ""
@@ -264,9 +264,9 @@
   "gitrevisioninfo.sty" 1563362048 35 89107c0bfcc132be77ef32027776f914 ""
   "tipografia.sty" 1563362035 9969 4482ee9ca783c256e73b20cb46d97e8c ""
   (generated)
+  "LIVRO.aux"
+  "INPUTS.aux"
+  "LIVRO.pdf"
   "LIVRO.log"
   "PUBLICIDADE.aux"
-  "INPUTS.aux"
-  "LIVRO.aux"
-  "LIVRO.pdf"
   "LIVRO.toc"
