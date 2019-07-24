@@ -9,7 +9,7 @@
 \contentsline {chapter}{Diário parisiense\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {\emph {GS} IV}}-1, p. 567-587. Tradução de Pedro Hussak van Velthen Ramos.}}{53}
 \contentsline {part}{Escritos sobre Paul Valéry}{83}
 \contentsline {chapter}{Paul Valéry na \emph {École Normale}\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS IV}}-1, p. 479-480. Tradução de Carla Milani Damião.}}{85}
-\contentsline {chapter}{Paul Valéry (1931) - Em seu sexagésimo aniversário\FN@sf@gobble@opt [*]{\emph {G.S.} II (I), p. 386-390. Tradução de Carla Milani Damião.}}{89}
+\contentsline {chapter}{Paul Valéry (1931) -- Em seu sexagésimo aniversário\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {\emph {GS} II}}-1, p. 386-390. Tradução de Carla Milani Damião.}}{89}
 \contentsline {chapter}{Anotações para o ensaio sobre Paul Valèry\FN@sf@gobble@opt [*]{\emph {G.S.} II-3, p. 1145-1146. Tradução de Carla M. Damião. Os editores alemães Tiedemann e Schweppenhäuser cometam o material da seguinte maneira: ``Uma folha com \emph {brouillons} do ensaio Paul Valéry - o único trabalho preliminar que existe no espólio de Benjamin'' (p.1145).}}{97}
 \contentsline {part}{Escritos sobre Proust}{101}
 \contentsline {chapter}{Imagem de Proust\FN@sf@gobble@opt [*]{G.S. II-1, p. 310-324. Tradução de Carla Milani Damião.}}{103}
