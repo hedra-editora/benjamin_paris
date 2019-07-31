@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  25 JUL 2019 10:26
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  31 JUL 2019 09:23
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.235 seconds
+luaotfload | main : initialization completed in 0.229 seconds
 Babel <3.15> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2081,7 +2081,7 @@ Overfull \vbox (12.60799pt too high) has occurred while \output is active []
 [122]) (./PROUST_PAPIERE.tex [123] [124
 
 ]
-Overfull \vbox (3.20685pt too high) has occurred while \output is active []
+Overfull \vbox (11.42393pt too high) has occurred while \output is active []
 
 
 [125]
@@ -2093,65 +2093,76 @@ Overfull \vbox (10.10799pt too high) has occurred while \output is active []
 
 
 [127] [128]
-Overfull \vbox (10.10799pt too high) has occurred while \output is active []
+Overfull \vbox (19.65602pt too high) has occurred while \output is active []
 
 
 [129]
 Overfull \vbox (10.10799pt too high) has occurred while \output is active []
 
 
-[130] [131]
-Overfull \vbox (7.60805pt too high) has occurred while \output is active []
+[130]
+Overfull \vbox (12.60799pt too high) has occurred while \output is active []
 
 
-[132]
-Overfull \vbox (19.60802pt too high) has occurred while \output is active []
+[131] [132]
+Overfull \vbox (14.60805pt too high) has occurred while \output is active []
 
 
-[133]
-Overfull \vbox (5.10805pt too high) has occurred while \output is active []
-
-
-[134]
+[133] [134]
 Overfull \vbox (7.65602pt too high) has occurred while \output is active []
 
 
-[135] [136]
-Overfull \vbox (2.60802pt too high) has occurred while \output is active []
+[135]
+Overfull \vbox (10.15599pt too high) has occurred while \output is active []
 
 
-[137]
-Overfull \vbox (2.60811pt too high) has occurred while \output is active []
+[136]
+Overfull \vbox (17.10802pt too high) has occurred while \output is active []
 
 
-[138] [139]
-Overfull \vbox (12.15602pt too high) has occurred while \output is active []
+[137] [138] [139]
+Overfull \vbox (17.10802pt too high) has occurred while \output is active []
 
 
 [140]
-Overfull \vbox (7.65605pt too high) has occurred while \output is active []
+Overfull \vbox (17.15608pt too high) has occurred while \output is active []
 
 
-[141] [142]
-Overfull \vbox (16.73608pt too high) has occurred while \output is active []
+[141]
+Overfull \vbox (10.10799pt too high) has occurred while \output is active []
 
 
-[143]
-Overfull \vbox (9.85599pt too high) has occurred while \output is active []
-
-
-[144]
-Overfull \vbox (19.65602pt too high) has occurred while \output is active []
+[142] [143] [144]
+Overfull \vbox (14.65605pt too high) has occurred while \output is active []
 
 
 [145]
-Overfull \vbox (5.20406pt too high) has occurred while \output is active []
+Overfull \vbox (9.60808pt too high) has occurred while \output is active []
 
 
-[146] [147] [148] [149] [150] [151] [152] [153]) [154] [155
+[146]
+Overfull \vbox (10.15599pt too high) has occurred while \output is active []
 
-] [156]
-(./GIDE_ALEMANHA.tex [157
+
+[147]
+Overfull \vbox (7.60805pt too high) has occurred while \output is active []
+
+
+[148]
+Overfull \vbox (19.15617pt too high) has occurred while \output is active []
+
+
+[149]
+Overfull \vbox (7.70004pt too high) has occurred while \output is active []
+
+
+[150] [151]
+Overfull \vbox (19.65602pt too high) has occurred while \output is active []
+
+
+[152]) [153] [154] [155
+
+] [156] (./GIDE_ALEMANHA.tex [157
 
 ] [158] [159]
 Overfull \vbox (19.60805pt too high) has occurred while \output is active []
@@ -2436,13 +2447,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of LuaTeX's memory you used:
  24729 strings out of 494483
  6940433,794899 words of node,token memory allocated
- 5956026 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 299 glue, 1 penalty, 977664 glyph, 36175 attribute,
- 197 glue_spec, 7235 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:5,2:2698,3:271,4:125,5:733,6:264,7:4558,8:92,9:376,10:26,11:11
+ 5954114 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 313 glue, 1 penalty, 977283 glyph, 36290 attribute,
+ 197 glue_spec, 7258 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:6,2:2698,3:272,4:125,5:731,6:266,7:4544,8:92,9:376,10:26,11:11
 38
  27541 multiletter control sequences out of 65536+600000
- 123 fonts using 23461687 bytes
+ 123 fonts using 23461831 bytes
  50i,14n,69p,1369b,537s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf
 -dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/opentype/public/l
@@ -2452,7 +2463,7 @@ inLibertine_R.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmmono8-regula
 r.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/
 share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr/share/t
 exmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (242 pages, 739330 bytes).
+Output written on LIVRO.pdf (242 pages, 740109 bytes).
 
 PDF statistics: 806 PDF objects out of 1000 (max. 8388607)
  541 compressed objects within 6 object streams
