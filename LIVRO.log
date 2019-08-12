@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  12 AUG 2019 17:46
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  12 AUG 2019 17:58
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.233 seconds
+luaotfload | main : initialization completed in 0.239 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2269,114 +2269,51 @@ Overfull \vbox (12.10802pt too high) has occurred while \output is active []
 Overfull \vbox (16.60808pt too high) has occurred while \output is active []
 
 
-
-Class memoir Warning: The material used in the headers is too large
-(28.99998pt) for the given head height (14.5pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 132.
-
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
 [205]
 Overfull \vbox (6.79999pt too high) has occurred while \output is active []
 
 
-[206]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[207] [208]
+[206] [207] [208]
 Overfull \vbox (10.10799pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [209] [210]
 Overfull \vbox (7.65599pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
 [211] [212]
 Overfull \vbox (19.65599pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [213] [214]
 Overfull \vbox (19.10805pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+[215] [216] [217] [218] [219]) (./CARTA_PARISIENSE_II.tex [220] [221] [222
 
-
-[215] [216]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[217] [218]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[219]) (./CARTA_PARISIENSE_II.tex
-Overfull \vbox (11.79999pt too high) has occurred while \output is active []
-
-
-[220]
-Overfull \vbox (14.79996pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[221
-
-] [222
-
-] [223]
+]
+[223]
 Overfull \vbox (14.60799pt too high) has occurred while \output is active []
 
 
-[224]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[225] [226]
+[224] [225] [226]
 Overfull \vbox (19.15608pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [227] [228]
 Overfull \vbox (6.70004pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
 [229]
 Overfull \vbox (12.65599pt too high) has occurred while \output is active []
 
 
-[230]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[231]
+[230] [231]
 Overfull \vbox (16.10799pt too high) has occurred while \output is active []
 
 
 [232]
 Overfull \vbox (12.65599pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [233]
@@ -2387,9 +2324,6 @@ Overfull \vbox (4.65605pt too high) has occurred while \output is active []
 Overfull \vbox (12.65599pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
 [235]
 Overfull \vbox (10.15599pt too high) has occurred while \output is active []
 
@@ -2398,25 +2332,11 @@ Overfull \vbox (10.15599pt too high) has occurred while \output is active []
 Overfull \vbox (12.65599pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
 [237])
 Overfull \vbox (19.10802pt too high) has occurred while \output is active []
 
 
-[238])
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[239]
-
-Class memoir Warning: The material used in the headers is too large
-(28.99998pt) for the given head height (14.5pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 66.
-
-
+[238]) [239] 
 AED: lastpage setting LastPage
 
 \openout2 = PUBLICIDADE.aux
@@ -2440,15 +2360,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 24560 strings out of 494472
+ 24559 strings out of 494472
  156260,794899 words of node,token memory allocated
- 6465 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 313 glue, 1 penalty, 1260 attribute, 196 glue_spec,
- 315 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:4,2:3237,3:271,4:125,5:732,6:10024,7:4544,8:98,9:376,10:26,11:
+ 6477 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 314 glue, 1 penalty, 1264 attribute, 195 glue_spec,
+ 316 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:4,2:3237,3:271,4:125,5:733,6:10024,7:4543,8:98,9:376,10:26,11:
 1138
- 27377 multiletter control sequences out of 65536+600000
- 123 fonts using 23461439 bytes
+ 27376 multiletter control sequences out of 65536+600000
+ 123 fonts using 23461295 bytes
  50i,14n,70p,1369b,537s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf
 -dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/opentype/public/l
@@ -2458,7 +2378,7 @@ inLibertine_R.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmmono8-regula
 r.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/
 share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr/share/t
 exmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (244 pages, 742414 bytes).
+Output written on LIVRO.pdf (244 pages, 740788 bytes).
 
 PDF statistics: 812 PDF objects out of 1000 (max. 8388607)
  545 compressed objects within 6 object streams
