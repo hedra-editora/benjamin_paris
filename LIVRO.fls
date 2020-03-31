@@ -409,8 +409,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
-INPUT ./TALENTOS_PARISIENSES.tex
-INPUT ./TALENTOS_PARISIENSES.tex
+INPUT ./CABECAS_PARISIENSES.tex
+INPUT ./CABECAS_PARISIENSES.tex
 INPUT ./DIARIO_PARISIENSE.tex
 INPUT ./DIARIO_PARISIENSE.tex
 INPUT ./PAUL_VALERY_ECOLE.tex
