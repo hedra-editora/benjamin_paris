@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  1 APR 2020 16:07
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  1 APR 2020 18:27
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.099 seconds
+luaotfload | main : initialization completed in 0.105 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2062,7 +2062,7 @@ Overfull \vbox (7.60802pt too high) has occurred while \output is active []
 
 
 [112]
-Overfull \vbox (10.15599pt too high) has occurred while \output is active []
+Overfull \vbox (10.10799pt too high) has occurred while \output is active []
 
 
 [113]
@@ -2089,14 +2089,10 @@ Overfull \vbox (10.10802pt too high) has occurred while \output is active []
 Overfull \vbox (10.15602pt too high) has occurred while \output is active []
 
 
-[120]) (./PROUST_PAPIERE.tex [121] [122]
-Overfull \vbox (11.42393pt too high) has occurred while \output is active []
-
-
-[123
+[120]) (./PROUST_PAPIERE.tex [121] [122] [123
 
 ]
-Overfull \vbox (5.10805pt too high) has occurred while \output is active []
+Overfull \vbox (17.15605pt too high) has occurred while \output is active []
 
 
 [124]
@@ -2104,11 +2100,11 @@ Overfull \vbox (10.10799pt too high) has occurred while \output is active []
 
 
 [125] [126]
-Overfull \vbox (12.09016pt too high) has occurred while \output is active []
+Overfull \vbox (12.04216pt too high) has occurred while \output is active []
 
 
 [127]
-Overfull \vbox (10.15599pt too high) has occurred while \output is active []
+Overfull \vbox (10.10799pt too high) has occurred while \output is active []
 
 
 [128] [129]
@@ -2116,47 +2112,70 @@ Overfull \vbox (7.60805pt too high) has occurred while \output is active []
 
 
 [130]
-Overfull \vbox (6.55019pt too high) has occurred while \output is active []
+Overfull \vbox (7.0902pt too high) has occurred while \output is active []
 
 
 [131]
-Overfull \vbox (19.60805pt too high) has occurred while \output is active []
+Overfull \vbox (19.65605pt too high) has occurred while \output is active []
 
 
-[132]
-Overfull \vbox (7.65602pt too high) has occurred while \output is active []
-
-
-[133] [134]
-Overfull \vbox (17.10802pt too high) has occurred while \output is active []
+[132] [133] [134]
+Overfull \vbox (2.60802pt too high) has occurred while \output is active []
 
 
 [135]
 Overfull \vbox (4.54228pt too high) has occurred while \output is active []
 
 
-[136] [137] [138]
-Overfull \vbox (0.15605pt too high) has occurred while \output is active []
+[136] [137]
+Underfull \hbox (badness 1199) in paragraph at lines 404--421
+[]\TU/LinuxLibertineO(0)/m/n/12 {Os mé-di-cos sen-tiam-se im-po-ten-tes di-ant
+e dessa
+ []
 
 
-[139] [140]
-Overfull \vbox (11.63416pt too high) has occurred while \output is active []
+Overfull \vbox (2.45602pt too high) has occurred while \output is active []
 
 
-[141]
+[138]
+Overfull \vbox (14.65605pt too high) has occurred while \output is active []
+
+
+[139] [140] [141]
+Overfull \vbox (16.85611pt too high) has occurred while \output is active []
+
+
+[142]
+Overfull \vbox (2.45602pt too high) has occurred while \output is active []
+
+
+[143] [144]
+Overfull \hbox (9.13196pt too wide) in paragraph at lines 658--664
+[][] 
+ []
+
+
+Overfull \vbox (4.52164pt too high) has occurred while \output is active []
+
+
+[145] [146]
 Overfull \vbox (7.60805pt too high) has occurred while \output is active []
 
 
-[142] [143] [144] [145] [146] [147]
-Overfull \vbox (8.89032pt too high) has occurred while \output is active []
+[147] [148]
+Overfull \vbox (9.55022pt too high) has occurred while \output is active []
 
 
-[148] [149] [150] [151] [152]) [153] [154
+[149]
+Overfull \vbox (12.19998pt too high) has occurred while \output is active []
 
-] [155] [156] (./GIDE_ALEMANHA.tex
-[157
 
-] [158] [159]
+[150] [151] [152]) [153] [154
+
+] [155] [156] (./GIDE_ALEMANHA.tex [157
+
+] [158]
+[159]
 Overfull \vbox (17.10805pt too high) has occurred while \output is active []
 
 
@@ -2370,15 +2389,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 24913 strings out of 494480
- 2274226,794899 words of node,token memory allocated
- 2079845 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 326 glue, 1 penalty, 329008 glyph, 43884 attribute,
- 195 glue_spec, 7314 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:3,2:3154,3:281,4:125,5:766,6:1514,7:4656,8:95,9:394,10:26,11:1
+ 24923 strings out of 494480
+ 2274167,794899 words of node,token memory allocated
+ 2083495 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 334 glue, 1 penalty, 329523 glyph, 44100 attribute,
+ 195 glue_spec, 7350 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:5,2:3154,3:282,4:125,5:766,6:1514,7:4648,8:95,9:394,10:26,11:1
 159
- 27736 multiletter control sequences out of 65536+600000
- 124 fonts using 23836487 bytes
+ 27746 multiletter control sequences out of 65536+600000
+ 124 fonts using 23836415 bytes
  50i,12n,69p,1988b,530s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/sha
 re/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist
@@ -2389,7 +2408,7 @@ s/opentype/public/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/fonts/ty
 pe1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/latxfont/lcirclew.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (244 pages, 749530 bytes).
+Output written on LIVRO.pdf (244 pages, 750917 bytes).
 
 PDF statistics: 812 PDF objects out of 1000 (max. 8388607)
  545 compressed objects within 6 object streams
