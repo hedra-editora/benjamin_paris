@@ -15,7 +15,7 @@
 \contentsline {section}{I}{101}
 \contentsline {section}{II}{108}
 \contentsline {section}{III}{115}
-\contentsline {chapter}{Proust-Papiere: documentos sobre Proust}{123}
+\contentsline {chapter}{Proust-Papiere: \emph {documentos sobre Proust}}{123}
 \contentsline {part}{Escritos sobre André Gide}{155}
 \contentsline {chapter}{André Gide e a Alemanha: \emph {conversação com o poeta}}{157}
 \contentsline {chapter}{Conversação com André Gide\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS IV}}-1, p. 502-509. Tradução de Carla Milani Damião.}}{163}
