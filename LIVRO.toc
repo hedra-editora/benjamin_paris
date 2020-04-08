@@ -7,22 +7,22 @@
 \contentsline {chapter}{O comerciante no poeta\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS}} \textsc {\MakeTextLowercase {III}}, p.~46-48. Tradução de Carla Milani Damião a partir do original alemão. Resenha originalmente publicada na revista \emph {Literarische Welt} em 15/10/1926. [\textsc {\MakeTextLowercase {N. E.}}]}}{37}
 \contentsline {chapter}{Cabeças parisienses\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS VII}}-1, p. 279-286. Tradução Pedro Hussak van Velthen Ramos. {[}\textsc {\MakeTextLowercase {N.~E.}}{]}}}{41}
 \contentsline {chapter}{Diário parisiense\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS IV}}-1, p. 567-587. Tradução de Pedro Hussak van Velthen Ramos. Texto publicado em \emph {Die literarishe Welt}, abril"-junho de 1930.}}{53}
-\contentsline {part}{Escritos sobre Paul Valéry}{83}
-\contentsline {chapter}{Paul Valéry na \emph {École Normale}\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS IV}}-1, p. 479-480. Tradução de Carla Milani Damião.}}{85}
-\contentsline {chapter}{Paul Valéry -- Em seu sexagésimo aniversário\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS II}}-1, p. 386-390. Como ocorre em outros textos publicados nesse volume, partes desse ensaio compõem um outro mais extenso, intitulado ``O lugar social do escritor francês na atualidade''. Tradução de Carla Milani Damião.}}{89}
-\contentsline {chapter}{Folha de anotações para o ensaio sobre Paul Valéry\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS II}}-3, p. 1145-1146. Tradução de Carla M. Damião. Os editores alemães Tiedemann e Schweppenhäuser cometam o material da seguinte maneira: ``Uma folha com \emph {brouillons} do ensaio Paul Valéry --- o único trabalho preliminar que existe no espólio de Benjamin'' (p. 1145).}}{97}
-\contentsline {part}{Escritos sobre Proust}{101}
-\contentsline {chapter}{Imagem de Proust\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS II}}-1, p. 310-324. Tradução de Carla Milani Damião.}}{103}
-\contentsline {section}{I}{103}
-\contentsline {section}{II}{110}
-\contentsline {section}{III}{117}
-\contentsline {chapter}{Proust-Papiere: \emph {documentos sobre Proust}}{125}
-\contentsline {part}{Escritos sobre André Gide}{157}
-\contentsline {chapter}{André Gide e a Alemanha: \emph {conversação com o poeta}}{159}
-\contentsline {chapter}{Conversação com André Gide\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS IV}}-1, p. 502-509. Tradução de Carla Milani Damião.}}{165}
-\contentsline {chapter}{A vocação de Gide (1929)\FN@sf@gobble@opt [*]{Programa de rádio Gides Berufung. In: \textsc {\MakeTextLowercase {GS VII}}-1, p. 257-269. Tradução de Pedro Hussak van Velthen e Carla Milani Damião. Seleção dos textos de Gide em traduções dos textos de Gide para o português, citados por Benjamin, de Carla M. Damião.}}{177}
-\contentsline {chapter}{Édipo ou o mito racional\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS II}}, p. 391-395. Tradução de Pedro Hussak van Velthen Ramos e Carla Milani Damião. Ensaio escrito por Benjamin em abril ou maio de 1932 para programa da encenação da peça ``\OE dipe'' de Gide em Darmstadt, sob a direção de Gustav Hartung em junho do mesmo ano (Cf. \textsc {\MakeTextLowercase {GS II}}, p. 1147-1148). Publicado em \emph {Blätter des hessischen Landtheaters}, Abril 1932.}}{195}
-\contentsline {part}{Cartas parisienses}{203}
-\contentsline {chapter}{Carta parisiense I\\ \emph {André Gide e seu novo adversário}\FN@sf@gobble@opt [*]{ \textsc {\MakeTextLowercase {GS III}}, p. 482-495. Tradução de Carla e Pedro.}}{205}
-\contentsline {chapter}{Carta parisiense II\\ \emph {Pintura e fotografia}\FN@sf@gobble@opt [*]{ \textsc {\MakeTextLowercase {GS III}}, p. 495-507. Tradução de Pedro Hussak van Velthen Ramos.}}{225}
+\contentsline {part}{Escritos sobre Paul Valéry}{85}
+\contentsline {chapter}{Paul Valéry na \emph {École Normale}\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS IV}}-1, p. 479-480. Tradução de Carla Milani Damião.}}{87}
+\contentsline {chapter}{Paul Valéry -- Em seu sexagésimo aniversário\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS II}}-1, p. 386-390. Como ocorre em outros textos publicados nesse volume, partes desse ensaio compõem um outro mais extenso, intitulado ``O lugar social do escritor francês na atualidade''. Tradução de Carla Milani Damião.}}{91}
+\contentsline {chapter}{Folha de anotações para o ensaio sobre Paul Valéry\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS II}}-3, p. 1145-1146. Tradução de Carla M. Damião. Os editores alemães Tiedemann e Schweppenhäuser cometam o material da seguinte maneira: ``Uma folha com \emph {brouillons} do ensaio Paul Valéry --- o único trabalho preliminar que existe no espólio de Benjamin'' (p. 1145).}}{99}
+\contentsline {part}{Escritos sobre Proust}{103}
+\contentsline {chapter}{Imagem de Proust\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS II}}-1, p. 310-324. Tradução de Carla Milani Damião.}}{105}
+\contentsline {section}{I}{105}
+\contentsline {section}{II}{112}
+\contentsline {section}{III}{119}
+\contentsline {chapter}{Proust-Papiere: \emph {documentos sobre Proust}}{127}
+\contentsline {part}{Escritos sobre André Gide}{159}
+\contentsline {chapter}{André Gide e a Alemanha: \emph {conversação com o poeta}}{161}
+\contentsline {chapter}{Conversação com André Gide\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS IV}}-1, p. 502-509. Tradução de Carla Milani Damião.}}{167}
+\contentsline {chapter}{A vocação de Gide (1929)\FN@sf@gobble@opt [*]{Programa de rádio Gides Berufung. In: \textsc {\MakeTextLowercase {GS VII}}-1, p. 257-269. Tradução de Pedro Hussak van Velthen e Carla Milani Damião. Seleção dos textos de Gide em traduções dos textos de Gide para o português, citados por Benjamin, de Carla M. Damião.}}{179}
+\contentsline {chapter}{Édipo ou o mito racional\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS II}}, p. 391-395. Tradução de Pedro Hussak van Velthen Ramos e Carla Milani Damião. Ensaio escrito por Benjamin em abril ou maio de 1932 para programa da encenação da peça ``\OE dipe'' de Gide em Darmstadt, sob a direção de Gustav Hartung em junho do mesmo ano (Cf. \textsc {\MakeTextLowercase {GS II}}, p. 1147-1148). Publicado em \emph {Blätter des hessischen Landtheaters}, Abril 1932.}}{197}
+\contentsline {part}{Cartas parisienses}{205}
+\contentsline {chapter}{Carta parisiense I\\ \emph {André Gide e seu novo adversário}\FN@sf@gobble@opt [*]{ \textsc {\MakeTextLowercase {GS III}}, p. 482-495. Tradução de Carla e Pedro.}}{207}
+\contentsline {chapter}{Carta parisiense II\\ \emph {Pintura e fotografia}\FN@sf@gobble@opt [*]{ \textsc {\MakeTextLowercase {GS III}}, p. 495-507. Tradução de Pedro Hussak van Velthen Ramos.}}{227}
 \contentsfinish 
