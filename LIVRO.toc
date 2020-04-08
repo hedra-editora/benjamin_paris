@@ -8,7 +8,7 @@
 \contentsline {chapter}{Cabeças parisienses\FN@sf@gobble@opt [*]{``Pariser Köpfe'', in \textsc {\MakeTextLowercase {GS VII}}-1, p. 279-286. Tradução Pedro Hussak van Velthen Ramos. {[}\textsc {\MakeTextLowercase {N.~E.}}{]}}}{41}
 \contentsline {chapter}{Diário parisiense\FN@sf@gobble@opt [*]{``Pariser Tagebuch'', in \textsc {\MakeTextLowercase {GS IV}}-1, p. 567-587. Tradução de Pedro Hussak van Velthen Ramos. Texto publicado em \emph {Die literarishe Welt}, abril"-junho de 1930.}}{53}
 \contentsline {part}{Escritos sobre Paul Valéry}{85}
-\contentsline {chapter}{Paul Valéry na \emph {École Normale}\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS IV}}-1, p. 479-480. Tradução de Carla Milani Damião.}}{87}
+\contentsline {chapter}{Paul Valéry na \emph {École Normale}\FN@sf@gobble@opt [*]{``Paul Valéry in der École Normal'', in \textsc {\MakeTextLowercase {GS IV}}-1, p. 479-480. Tradução de Carla Milani Damião.}}{87}
 \contentsline {chapter}{Paul Valéry -- Em seu sexagésimo aniversário\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS II}}-1, p. 386-390. Como ocorre em outros textos publicados nesse volume, partes desse ensaio compõem um outro mais extenso, intitulado ``O lugar social do escritor francês na atualidade''. Tradução de Carla Milani Damião.}}{91}
 \contentsline {chapter}{Folha de anotações para o ensaio sobre Paul Valéry\FN@sf@gobble@opt [*]{\textsc {\MakeTextLowercase {GS II}}-3, p. 1145-1146. Tradução de Carla M. Damião. Os editores alemães Tiedemann e Schweppenhäuser cometam o material da seguinte maneira: ``Uma folha com \emph {brouillons} do ensaio Paul Valéry --- o único trabalho preliminar que existe no espólio de Benjamin'' (p. 1145).}}{99}
 \contentsline {part}{Escritos sobre Proust}{103}
