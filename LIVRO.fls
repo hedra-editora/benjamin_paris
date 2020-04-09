@@ -431,6 +431,15 @@ INPUT ./IMAGEM_PROUST.tex
 INPUT ./IMAGEM_PROUST.tex
 INPUT ./PROUST_PAPIERE.tex
 INPUT ./PROUST_PAPIERE.tex
+INPUT ./diagrama.pdf
+INPUT ./diagrama.pdf
+INPUT ./diagrama.pdf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT ./GIDE_ALEMANHA.tex
 INPUT ./GIDE_ALEMANHA.tex
 INPUT ./CONVERSACAO_GIDE.tex
