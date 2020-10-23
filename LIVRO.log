@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  11 SEP 2020 19:05
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  23 OCT 2020 20:12
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -374,7 +374,7 @@ Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
 ))
 (/home/edlab/texmf/tex/hedraoptions.sty
 
-Class memoir Warning: \marginparsep is zero or negative on input line 165.
+Class memoir Warning: \marginparsep is zero or negative on input line 177.
 
 
 ******************************************************
@@ -1545,37 +1545,37 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 (./PUBLICIDADE.aux))
 \openout1 = LIVRO.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 62.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 62.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 68.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 68.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 62.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 68.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Info: Redefining \dots on input line 62.
-LaTeX Info: Redefining \up on input line 62.
-LaTeX Info: Redefining \microtypecontext on input line 62.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Info: Redefining \dots on input line 68.
+LaTeX Info: Redefining \up on input line 68.
+LaTeX Info: Redefining \microtypecontext on input line 68.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1596,64 +1596,64 @@ Package microtype Info: Loading generic protrusion settings for font family
 .................................................
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 62.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 62.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 62.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 62.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 62.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 62.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 62.
-LaTeX Font Info:    Redeclaring math accent \check on input line 62.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 62.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 62.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 62.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 62.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 68.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 68.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 68.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 68.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 68.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 68.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 68.
+LaTeX Font Info:    Redeclaring math accent \check on input line 68.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 68.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 68.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 68.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 68.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 62.
+(Font)              `operators' in the math version `normal' on input line 68.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LinuxLibertineO(0)/m/n on input line 
-62.
+68.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 62.
+(Font)              `operators' in the math version `bold' on input line 68.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/m/n on input line
- 62.
+ 68.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/m/n 
-on input line 62.
+on input line 68.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LinuxLibertineO(0)/m/it on input lin
-e 62.
+e 68.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/bx/n on input lin
-e 62.
+e 68.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 62.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 68.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 62.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 68.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/bx/n
- on input line 62.
+ on input line 68.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/LinuxLibertineO(0)/bx/it on input l
-ine 62.
+ine 68.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 62.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 68.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 62.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 68.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1698,7 +1698,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 62.
+(lastpage)             ! on input line 68.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
@@ -1708,11 +1708,11 @@ Package caption Info: End \AtBeginDocument code.
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 62.
+(Font)              <8> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 62.
+(Font)              <6> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 62.
+(Font)              <5> on input line 68.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
@@ -1721,7 +1721,7 @@ RS)
 (/home/edlab/texmf/tex/frontconselho.tex) [2
 
 ]
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 62.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 68.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -1735,13 +1735,9 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 \openout2 = INPUTS.aux
  (./INPUTS.tex (./ABREV.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 8.
-
-Overfull \hbox (1.14569pt too wide) in paragraph at lines 8--18
- [][] 
- []
-
-) (./APRESENTACAO.tex [9
+(Font)              <10.95> on input line 9.
+)
+(./APRESENTACAO.tex [9
 
 
 
@@ -1755,7 +1751,7 @@ Overfull \vbox (10.15599pt too high) has occurred while \output is active []
 
 
 [12]
-Overfull \vbox (7.89607pt too high) has occurred while \output is active []
+Overfull \vbox (4.15608pt too high) has occurred while \output is active []
 
 
 [13]
@@ -1763,22 +1759,33 @@ Overfull \vbox (2.10802pt too high) has occurred while \output is active []
 
 
 [14] [15]
-Overfull \vbox (16.97598pt too high) has occurred while \output is active []
+Overfull \vbox (19.60799pt too high) has occurred while \output is active []
 
 
-[16] [17]
+[16]
+Overfull \vbox (14.45602pt too high) has occurred while \output is active []
+
+
+[17]
 Overfull \vbox (7.15602pt too high) has occurred while \output is active []
 
 
 [18]
-Overfull \vbox (4.60805pt too high) has occurred while \output is active []
+Overfull \vbox (19.10805pt too high) has occurred while \output is active []
 
 
 [19] [20]
 Overfull \vbox (10.89601pt too high) has occurred while \output is active []
 
 
-[21] [22] [23]
+[21] [22]
+Underfull \hbox (badness 6995) in paragraph at lines 347--347
+[]\TU/LinuxLibertineO(0)/m/n/10 . []J. -P. Sar-tre. ``Gide vi-vant''. In:
+ \TU/LinuxLibertineO(0)/m/it/10 Si-tu-a-ti-ons, \TU/LinuxLibertineO(0)/m/itsc/1
+0 \TU/LinuxLibertineO(0)/m/n/10 . Pa-ris:
+ []
+
+[23]
 Overfull \vbox (17.10802pt too high) has occurred while \output is active []
 
 
@@ -1821,7 +1828,7 @@ Overfull \vbox (14.35878pt too high) has occurred while \output is active []
 [41
 
 ]
-Overfull \vbox (6.95605pt too high) has occurred while \output is active []
+Overfull \vbox (9.60805pt too high) has occurred while \output is active []
 
 
 [42]
@@ -1844,7 +1851,7 @@ Overfull \vbox (10.10403pt too high) has occurred while \output is active []
 
 
 [46]
-Overfull \vbox (6.39604pt too high) has occurred while \output is active []
+Overfull \vbox (7.47604pt too high) has occurred while \output is active []
 
 
 [47]
@@ -1852,24 +1859,20 @@ Overfull \vbox (17.15608pt too high) has occurred while \output is active []
 
 
 [48]
-Overfull \vbox (7.65602pt too high) has occurred while \output is active []
+Overfull \vbox (7.60802pt too high) has occurred while \output is active []
 
 
 [49]
-Overfull \vbox (4.95602pt too high) has occurred while \output is active []
+Overfull \vbox (7.60802pt too high) has occurred while \output is active []
 
 
-[50]
-Overfull \vbox (9.79999pt too high) has occurred while \output is active []
-
-
-[51] [52
-
-]
+[50] [51] [52]
 Overfull \vbox (10.57587pt too high) has occurred while \output is active []
 
 
-[53]
+[53
+
+]
 Overfull \vbox (16.60799pt too high) has occurred while \output is active []
 
 
@@ -1906,15 +1909,15 @@ Overfull \vbox (9.60802pt too high) has occurred while \output is active []
 
 
 [65]
-Overfull \vbox (4.59023pt too high) has occurred while \output is active []
+Overfull \vbox (19.09023pt too high) has occurred while \output is active []
 
 
 [66]
-Overfull \vbox (14.65602pt too high) has occurred while \output is active []
+Overfull \vbox (14.60802pt too high) has occurred while \output is active []
 
 
 [67]
-Overfull \vbox (19.65605pt too high) has occurred while \output is active []
+Overfull \vbox (5.15605pt too high) has occurred while \output is active []
 
 
 [68]
@@ -1961,13 +1964,7 @@ Overfull \vbox (7.04219pt too high) has occurred while \output is active []
 Overfull \vbox (5.10805pt too high) has occurred while \output is active []
 
 
-[82])
-Overfull \hbox (1.93996pt too wide) in paragraph at lines 780--8
-[]\TU/LinuxLibertineO(0)/m/n/12 An-tes disso, um pas-seio de des-pe-dida pe-los
- \TU/LinuxLibertineO(0)/m/it/12 Champs-Él- 
- []
-
-[83] [84] [85
+[82]) [83] [84] [85
 
 ] [86] (./PAUL_VALERY_ECOLE.tex [87
 
@@ -2019,7 +2016,7 @@ Overfull \vbox (6.69998pt too high) has occurred while \output is active []
 
 
 [112] [113]
-Overfull \vbox (18.183pt too high) has occurred while \output is active []
+Overfull \vbox (18.051pt too high) has occurred while \output is active []
 
 
 [114]
@@ -2031,30 +2028,30 @@ Overfull \vbox (19.60802pt too high) has occurred while \output is active []
 
 
 [116] [117]
-Overfull \vbox (14.65605pt too high) has occurred while \output is active []
+Overfull \vbox (12.15605pt too high) has occurred while \output is active []
 
 
 [118]
 Overfull \vbox (10.10799pt too high) has occurred while \output is active []
 
 
-[119]
-Overfull \vbox (7.15608pt too high) has occurred while \output is active []
-
-
-[120] [121]
-Overfull \vbox (15.18307pt too high) has occurred while \output is active []
+[119] [120] [121]
+Overfull \vbox (16.23097pt too high) has occurred while \output is active []
 
 
 [122]
-Overfull \vbox (17.15602pt too high) has occurred while \output is active []
+Overfull \vbox (6.39598pt too high) has occurred while \output is active []
 
 
 [123]
-Overfull \vbox (10.15602pt too high) has occurred while \output is active []
+Overfull \vbox (19.60805pt too high) has occurred while \output is active []
 
 
-[124] [125]
+[124]
+Overfull \vbox (7.45602pt too high) has occurred while \output is active []
+
+
+[125]
 Overfull \vbox (12.60799pt too high) has occurred while \output is active []
 
 
@@ -2069,7 +2066,7 @@ Overfull \vbox (16.53384pt too high) has occurred while \output is active []
 [129
 
 ]
-Overfull \vbox (2.65605pt too high) has occurred while \output is active []
+Overfull \vbox (2.60805pt too high) has occurred while \output is active []
 
 
 [130] [131]
@@ -2093,18 +2090,14 @@ Overfull \vbox (7.60805pt too high) has occurred while \output is active []
 
 
 [136]
-Overfull \vbox (1.8902pt too high) has occurred while \output is active []
+Overfull \vbox (4.54219pt too high) has occurred while \output is active []
 
 
 [137]
-Overfull \vbox (7.60802pt too high) has occurred while \output is active []
+Overfull \vbox (19.20004pt too high) has occurred while \output is active []
 
 
-[138]
-Overfull \vbox (5.15605pt too high) has occurred while \output is active []
-
-
-[139] [140]
+[138] [139] [140]
 Overfull \vbox (17.10802pt too high) has occurred while \output is active []
 
 
@@ -2141,24 +2134,15 @@ warning  (file ./diagrama.pdf) (pdf inclusion): PDF inclusion: found PDF version
 File: ./diagrama.pdf Graphic file (type pdf)
 <use ./diagrama.pdf>
 Package luatex.def Info: ./diagrama.pdf  used on input line 610.
-(luatex.def)             Requested size: 355.65944pt x 190.3276pt.
-
-Overfull \hbox (32.28986pt too wide) in paragraph at lines 610--611
-| []  
- []
-
-[150<./diagrama.pdf>] [151] [152] [153]
-Overfull \vbox (6.39032pt too high) has occurred while \output is active []
+(luatex.def)             Requested size: 275.0pt x 147.16632pt.
+[150<./diagrama.pdf>] [151] [152]
+Overfull \vbox (10.15602pt too high) has occurred while \output is active []
 
 
-[154]
+[153]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 756.
- [155] [156] [157]) (./GIDE_ALEMANHA.tex
-Overfull \vbox (15.39708pt too high) has occurred while \output is active []
-
-
-[158] [159
+ [154] [155] [156] [157]) (./GIDE_ALEMANHA.tex [158] [159
 
 ] [160]
 Overfull \vbox (4.90681pt too high) has occurred while \output is active []
@@ -2233,7 +2217,7 @@ Overfull \vbox (13.25409pt too high) has occurred while \output is active []
 
 
 [180] [181]
-Overfull \vbox (0.25604pt too high) has occurred while \output is active []
+Overfull \vbox (12.25604pt too high) has occurred while \output is active []
 
 
 [182] [183] [184] [185] [186] [187]
@@ -2270,11 +2254,7 @@ Overfull \vbox (19.60802pt too high) has occurred while \output is active []
 Overfull \vbox (12.15602pt too high) has occurred while \output is active []
 
 
-[200]
-Overfull \vbox (9.75928pt too high) has occurred while \output is active []
-
-
-[201]
+[200] [201]
 Overfull \vbox (2.15608pt too high) has occurred while \output is active []
 
 
@@ -2291,14 +2271,18 @@ Overfull \vbox (12.10802pt too high) has occurred while \output is active []
 
 
 [208]
-Overfull \vbox (6.73608pt too high) has occurred while \output is active []
+Overfull \vbox (16.60808pt too high) has occurred while \output is active []
 
 
 [209]
-Overfull \vbox (7.65602pt too high) has occurred while \output is active []
+Overfull \vbox (12.60799pt too high) has occurred while \output is active []
 
 
-[210] [211] [212] [213]
+[210] [211]
+Overfull \vbox (10.10799pt too high) has occurred while \output is active []
+
+
+[212] [213]
 Overfull \vbox (7.60799pt too high) has occurred while \output is active []
 
 
@@ -2307,21 +2291,17 @@ Overfull \vbox (19.60799pt too high) has occurred while \output is active []
 
 
 [216] [217]
-Overfull \vbox (7.15602pt too high) has occurred while \output is active []
+Overfull \vbox (16.60805pt too high) has occurred while \output is active []
 
 
-[218]
-Overfull \vbox (10.10799pt too high) has occurred while \output is active []
-
-
-[219] [220] [221] [222]) (./CARTA_PARISIENSE_II.tex [223] [224] [225
+[218] [219] [220] [221] [222]) (./CARTA_PARISIENSE_II.tex [223] [224] [225
 
 ]
 Overfull \vbox (12.10799pt too high) has occurred while \output is active []
 
 
 [226] [227]
-Overfull \vbox (19.10805pt too high) has occurred while \output is active []
+Overfull \vbox (16.60805pt too high) has occurred while \output is active []
 
 
 [228]
@@ -2333,10 +2313,14 @@ Overfull \vbox (19.15605pt too high) has occurred while \output is active []
 
 
 [231]
-Overfull \vbox (12.65599pt too high) has occurred while \output is active []
+Overfull \vbox (12.60799pt too high) has occurred while \output is active []
 
 
-[232] [233]
+[232]
+Overfull \vbox (12.60799pt too high) has occurred while \output is active []
+
+
+[233]
 Overfull \vbox (16.10799pt too high) has occurred while \output is active []
 
 
@@ -2378,7 +2362,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
 
 
-] [243] [244] [245]) [246
+] [243]
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+[244] [245]) [246
 
 
 ]
@@ -2392,16 +2381,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 24938 strings out of 494480
- 2274213,794899 words of node,token memory allocated
- 2037691 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 364 glue, 1 penalty, 321798 glyph, 44244 attribute,
- 195 glue_spec, 7374 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:3,2:2894,3:301,4:126,5:781,6:1111,7:4622,8:98,9:387,10:26,11:1
+ 24939 strings out of 494480
+ 2274207,794899 words of node,token memory allocated
+ 2039974 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 363 glue, 1 penalty, 322154 glyph, 44310 attribute,
+ 195 glue_spec, 7385 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:4,2:2733,3:304,4:126,5:781,6:1075,7:4625,8:98,9:388,10:26,11:1
 175
- 27751 multiletter control sequences out of 65536+600000
- 125 fonts using 23632427 bytes
- 50i,14n,85p,1977b,542s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 27752 multiletter control sequences out of 65536+600000
+ 125 fonts using 23632503 bytes
+ 50i,15n,85p,1977b,542s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/sha
 re/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist
 /fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/share/texlive/texmf-d
@@ -2410,7 +2399,7 @@ f-dist/fonts/opentype/public/libertine/LinLibertine_R.otf></usr/share/texlive/te
 xmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (246 pages, 1215132 bytes).
+Output written on LIVRO.pdf (246 pages, 1215888 bytes).
 
 PDF statistics: 947 PDF objects out of 1000 (max. 8388607)
  635 compressed objects within 7 object streams
