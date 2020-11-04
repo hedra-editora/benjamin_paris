@@ -334,6 +334,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono12-regular.luc
+INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono8-regular.luc
 OUTPUT LIVRO.pdf
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
@@ -348,6 +350,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
+INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
 INPUT ./LIVRO.toc
 INPUT ./LIVRO.toc
 OUTPUT INPUTS.aux
