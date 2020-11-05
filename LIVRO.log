@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  4 NOV 2020 18:06
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  5 NOV 2020 13:27
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.090 seconds
+luaotfload | main : initialization completed in 0.092 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2112,7 +2112,7 @@ Overfull \vbox (2.04228pt too high) has occurred while \output is active []
 
 
 [142] [143]
-Underfull \hbox (badness 1199) in paragraph at lines 399--416
+Underfull \hbox (badness 1199) in paragraph at lines 393--410
 []\TU/LinuxLibertineO(0)/m/n/12 {Os mé-di-cos sen-tiam-se im-po-ten-tes di-ant
 e dessa
  []
@@ -2139,7 +2139,7 @@ warning  (file ./diagrama.pdf) (pdf inclusion): PDF inclusion: found PDF version
 <./diagrama.pdf, id=473, 476.10039pt x 320.6901pt>
 File: ./diagrama.pdf Graphic file (type pdf)
 <use ./diagrama.pdf>
-Package luatex.def Info: ./diagrama.pdf  used on input line 609.
+Package luatex.def Info: ./diagrama.pdf  used on input line 603.
 (luatex.def)             Requested size: 275.0pt x 185.23212pt.
 [150<./diagrama.pdf>] [151] [152]
 Overfull \vbox (10.15602pt too high) has occurred while \output is active []
@@ -2147,7 +2147,7 @@ Overfull \vbox (10.15602pt too high) has occurred while \output is active []
 
 [153]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 755.
+(Font)              <14.4> on input line 749.
  [154]
 Overfull \vbox (11.75673pt too high) has occurred while \output is active []
 
@@ -2161,7 +2161,7 @@ Overfull \vbox (4.90681pt too high) has occurred while \output is active []
 [161
 
 ] [162] [163]
-Overfull \vbox (14.45605pt too high) has occurred while \output is active []
+Overfull \vbox (19.60805pt too high) has occurred while \output is active []
 
 
 [164] [165]
@@ -2170,11 +2170,7 @@ Underfull \hbox (badness 3128) in paragraph at lines 145--162
 nuxLibertineO(0)/m/it/12 Jour-nal des
  []
 
-) (./CONVERSACAO_GIDE.tex
-Overfull \vbox (9.79999pt too high) has occurred while \output is active []
-
-
-[166]
+) (./CONVERSACAO_GIDE.tex [166]
 Overfull \vbox (10.90685pt too high) has occurred while \output is active []
 
 
@@ -2300,7 +2296,13 @@ Overfull \vbox (7.60799pt too high) has occurred while \output is active []
 Overfull \vbox (19.60799pt too high) has occurred while \output is active []
 
 
-[216] [217]
+[216]
+Underfull \hbox (badness 1205) in paragraph at lines 369--369
+[]\TU/LinuxLibertineO(0)/m/n/10 . []Cf. o ma-ni-festo de Ma-ri-netti so-b
+re a guerra da Etió-pia.
+ []
+
+[217]
 Overfull \vbox (19.10805pt too high) has occurred while \output is active []
 
 
@@ -2393,13 +2395,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of LuaTeX's memory you used:
  24945 strings out of 494480
  2274198,794899 words of node,token memory allocated
- 2093863 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 362 glue, 1 penalty, 330600 glyph, 45690 attribute,
+ 2093977 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 362 glue, 1 penalty, 330619 glyph, 45690 attribute,
  195 glue_spec, 7615 attribute_list, 3 shape, 2 write nodes
    avail lists: 1:5,2:2645,3:301,4:126,5:784,6:1094,7:4612,8:102,9:400,10:26,11:
 1170
  27759 multiletter control sequences out of 65536+600000
- 130 fonts using 24262931 bytes
+ 130 fonts using 24262779 bytes
  50i,15n,85p,1977b,542s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/sha
 re/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist
@@ -2410,10 +2412,10 @@ s/opentype/public/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/fonts/ty
 pe1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/latxfont/lcirclew.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (246 pages, 1201135 bytes).
+Output written on LIVRO.pdf (246 pages, 1243148 bytes).
 
-PDF statistics: 944 PDF objects out of 1000 (max. 8388607)
- 631 compressed objects within 7 object streams
+PDF statistics: 958 PDF objects out of 1000 (max. 8388607)
+ 639 compressed objects within 7 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
