@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  5 NOV 2020 13:27
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  6 NOV 2020 15:12
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.092 seconds
+luaotfload | main : initialization completed in 0.181 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1749,35 +1749,43 @@ RS)
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 11.
- [11] [12]
-Overfull \vbox (16.15608pt too high) has occurred while \output is active []
+ [11]
+Overfull \vbox (21.10805pt too high) has occurred while \output is active []
+
+
+[12]
+Overfull \vbox (11.97601pt too high) has occurred while \output is active []
 
 
 [13]
-Overfull \vbox (16.60802pt too high) has occurred while \output is active []
+Overfull \vbox (14.65599pt too high) has occurred while \output is active []
 
 
-[14] [15]
+[14]
 Overfull \vbox (19.65599pt too high) has occurred while \output is active []
 
 
+[15]
+Overfull \vbox (7.60799pt too high) has occurred while \output is active []
+
+
 [16]
-Overfull \vbox (15.89601pt too high) has occurred while \output is active []
+Overfull \vbox (9.60802pt too high) has occurred while \output is active []
 
 
 [17]
-Overfull \vbox (7.15602pt too high) has occurred while \output is active []
+Overfull \vbox (12.10805pt too high) has occurred while \output is active []
 
 
-[18] [19] [20]
-Overfull \vbox (10.89601pt too high) has occurred while \output is active []
+[18]
+Overfull \vbox (1.95605pt too high) has occurred while \output is active []
 
 
-[21] [22] [23]
+[19] [20] [21] [22]
 Overfull \vbox (17.10802pt too high) has occurred while \output is active []
 
 
-[24] [25] [26]) [27] [28
+[23] [24] [25]) [26] [27] [28
 
 ] [29] [30] (./TRES_FRANCESES.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -2394,14 +2402,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Here is how much of LuaTeX's memory you used:
  24945 strings out of 494480
- 2274198,794899 words of node,token memory allocated
- 2093977 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 362 glue, 1 penalty, 330619 glyph, 45690 attribute,
- 195 glue_spec, 7615 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:5,2:2645,3:301,4:126,5:784,6:1094,7:4612,8:102,9:400,10:26,11:
+ 2274226,794899 words of node,token memory allocated
+ 2089721 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 362 glue, 1 penalty, 329912 glyph, 45684 attribute,
+ 195 glue_spec, 7614 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:4,2:2645,3:303,4:126,5:785,6:1094,7:4612,8:102,9:400,10:26,11:
 1170
  27759 multiletter control sequences out of 65536+600000
- 130 fonts using 24262779 bytes
+ 130 fonts using 24262627 bytes
  50i,15n,85p,1977b,542s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/sha
 re/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist
@@ -2412,7 +2420,7 @@ s/opentype/public/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/fonts/ty
 pe1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/latxfont/lcirclew.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (246 pages, 1243148 bytes).
+Output written on LIVRO.pdf (246 pages, 1242113 bytes).
 
 PDF statistics: 958 PDF objects out of 1000 (max. 8388607)
  639 compressed objects within 7 object streams
